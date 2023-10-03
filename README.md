@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Araujo</h1>
-<h3 align="center">Atualmente sou estudante da área de dados, tenho como objetivo, me tornar um analista de dados/analista de BI, utilizando minhas habilidades analíticas e conhecimentos adquiridos para resolver problemas e transformar dados complexos em insights valiosos.</h3>
+<h3 align="center">O desenvolvimento constante é uma parte crucial do meu caminho profissional. Estou aberto a desafios que me permitam crescer como profissional e como indivíduo. Estou disposto a enfrentar novos projetos e responsabilidades que me permitam ampliar minhas habilidades e conhecimentos.</h3>
 
 - 🌱 Atualmente estou estudando **Power BI, Estatística e Python (Pandas, Seaborn e Matplotlib)**
 
