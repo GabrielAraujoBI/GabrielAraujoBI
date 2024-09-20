@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Araujo</h1>
 <h3 align="center">O desenvolvimento constante é uma parte crucial do meu caminho profissional. Estou aberto a desafios que me permitam crescer como profissional e como indivíduo. Estou disposto a enfrentar novos projetos e responsabilidades que me permitam ampliar minhas habilidades e conhecimentos.</h3>
 
-- 🌱 Atualmente estou estudando **Power BI, Estatística e Python (Pandas, Seaborn e Matplotlib)**
+- 🌱 Atualmente estou estudando **SQL, Power BI, Estatística e Python (Pandas, Seaborn e Matplotlib)**
 
-- 📄 Já possuo sólido conhecimento em **SQL e Excel**
+- 📄 Já possuo sólido conhecimento em **SQL e Power BI**
 
 - 📫 Você pode me contatar pelo e-mail **gabaraujo12@gmail.com**
 
