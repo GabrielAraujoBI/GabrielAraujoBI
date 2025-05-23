@@ -10,8 +10,6 @@
 
 Sou um profissional em transição para a área de Dados, com background em suporte técnico e mapeamento de processos. Atualmente atuo como **Assistente de Dados de Cessão no Agibank**, após ter passado por um estágio de BI na **Petlove**, onde me aproximei ainda mais do mundo da análise de dados, orquestração de pipelines e visualização em dashboards.
 
-Tenho experiência com **SQL, Power BI, Python e Airflow**, além de sólida base em **estatística, modelagem de dados e storytelling com dados**.
-
 ---
 
 ## 🧪 Projetos Acadêmicos
