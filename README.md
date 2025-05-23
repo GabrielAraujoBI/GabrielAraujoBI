@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gabriel Pereira Marques de Araujo!
 
 🎓 Estudante de Ciência de Dados na FIAP | 🧠 Entusiasta de BI, ETL e Visualização de Dados  
-🔍 Em busca de oportunidades para crescer como Analista de Dados ou Analista de BI  
+🔍 Em busca de oportunidades para crescer como Analista de Dados ou Engenheiro de Dados
 🐾 Petlover apaixonado por tecnologia, dados e o universo pet!
 
 ---
