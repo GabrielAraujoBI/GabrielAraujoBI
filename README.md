@@ -2,7 +2,6 @@
 
 🎓 Estudante de Ciência de Dados na FIAP | 🧠 Entusiasta de BI, ETL e Visualização de Dados  
 🔍 Em busca de oportunidades para crescer como Analista de Dados ou Engenheiro de Dados
-🐾 Petlover apaixonado por tecnologia, dados e o universo pet!
 
 ---
 
@@ -18,8 +17,8 @@ Sou um profissional em transição para a área de Dados, com background em supo
 *Projeto voltado para o varejo, parceria da FIAP + IBM*  
 - Criação de pipeline de ETL com **Docker + Airflow (Astronomer)**  
 - Extração de dados do **Mercado Livre** com **Python e Scrapy**  
-- Armazenamento dos dados tratados no **BigQuery (GCP)**  
-- Projeto focado em **automação**, **escalabilidade** e **boas práticas de engenharia de dados**
+- Armazenamento dos dados tratados no **BigQuery (GCP)**
+- Consumo dos dados no **Power BI**
 
 ---
 
@@ -70,10 +69,5 @@ Sou um profissional em transição para a área de Dados, com background em supo
 
 ## 📫 Contato
 
-- 📧 **Email**: gabrielpm.araujo@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/gabriel-pereira-marques-de-araujo](https://www.linkedin.com/in/gabriel-pereira-marques-de-araujo/)  
-- 💻 **GitHub**: [github.com/gabrielpmaraujo](https://github.com/gabrielpmaraujo)
-
----
-
-> *"Transformar dados em decisões é mais do que uma profissão — é a minha paixão."*
+- 📧 **Email**: gabaraujo12@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/gabriel-pereira-marques-de-araujo](https://www.linkedin.com/in/gabrielpereiramarques/)
