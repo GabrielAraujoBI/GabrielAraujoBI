@@ -17,8 +17,8 @@ Sou um profissional em transição para a área de Dados, com background em supo
 *Projeto voltado para o varejo, parceria da FIAP + IBM*  
 - Criação de pipeline de ETL com **Docker + Airflow (Astronomer)**  
 - Extração de dados do **Mercado Livre** com **Python e Scrapy**  
-- Armazenamento dos dados tratados no **BigQuery (GCP)**
-- Consumo dos dados no **Power BI**
+- Armazenamento dos dados tratados no **BigQuery (Google Cloud Platform)**
+- Consumo e Visualização dos dados no **Power BI**
 
 ---
 
