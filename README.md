@@ -48,15 +48,16 @@ Sou um profissional em transição para a área de Dados, com background em supo
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens**: Python (Pandas, NumPy), SQL  
-- **Ferramentas BI**: Power BI, Google Data Studio  
-- **Cloud**: Google Cloud Platform (BigQuery, Storage)  
-- **Orquestração**: Airflow (Astronomer)  
-- **ETL & Dados**: Scrapy, Docker, Google Sheets, Data Warehouse  
-- **Design de Dashboards**: Figma, Confluence  
-- **Versionamento**: Git, GitHub  
-- **Bancos de Dados**: SQL Server, PostgreSQL, BigQuery  
-- **Outros**: Excel (Intermediário), Jira, Slack, Confluence, VS Code  
+- **Linguagens**: Python e SQL  
+- **Ferramentas de Visualização**: Power BI, Google Sheets e Excel
+- **Cloud**: Google Cloud Platform
+- **Orquestração**: Airflow
+- **Conteinerização**: Docker
+- **Webscrapping**: Scrapy
+- **Design de Dashboards**: Figma  
+- **Versionamento**: Git e Confluence
+- **Bancos de Dados**: BigQuery, SQL Server e Oracle
+- **Outros**: Jira, Slack e VSCode
 
 ---
 
