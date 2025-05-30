@@ -18,7 +18,7 @@ Sou um profissional em transição para a área de Dados, com background em supo
 - Criação de pipeline de ETL com **Docker + Airflow (Astronomer)**  
 - Extração de dados do **Mercado Livre** com **Python e Scrapy**  
 - Armazenamento dos dados tratados no **BigQuery (Google Cloud Platform)**
-- Consumo e Visualização dos dados no **Power BI**
+- Consumo e visualização dos dados no **Power BI**
 
 ---
 
