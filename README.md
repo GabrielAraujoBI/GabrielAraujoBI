@@ -26,13 +26,13 @@ Sou um profissional em transição para a área de Dados, com background em supo
 
 ### **Assistente de Dados de Cessão | Abril 2025 - Atualmente**  
 **Agibank**  
-- Executar rotinas de repasse de verba, recompra de contratos bancários e marcação de recompra de contratos  
-- Apoiar a equipe no desenvolvimento de estudos e análises relacionados aos processos e dados da área  
-- Auxiliar no mapeamento e desenho dos processos da área, com elaboração e atualização contínua de manuais operacionais  
-- Sugerir melhorias e contribuir para a otimização contínua dos processos existentes  
-- Modelar queries no SQL Server e Lake para extrações específicas de dados  
-- Desenvolver e manter dashboards gerenciais e operacionais voltados para as áreas de cessão e conciliação  
-- Identificar possíveis gaps nas rotinas e propor ajustes ou melhorias para aumentar a eficiência e a confiabilidade dos processos  
+- Modelagem de queries SQL para operacionalizar operações de cessão de crédito, pós-cessão (repasse e recompra), aquisições de carteiras, desbloqueios de contratos e outras movimentações financeiras, assegurando conformidade com as regras de negócio e eficiência nos processos;
+- Participação ativa na implantação de operações FIDC, implementado rotinas de repasse, recompra e batimento de valores;
+- Desenvolvimento de controles de governança e dashboards em Excel e Power BI para monitoramento de processos e apoio à tomada de decisão.
+- Criação de scripts em PySpark para execução de ETL a partir de arquivos CSV, com ingestão final dos dados em tabelas na AWS;
+- Lançamento contábil referente a repasses e recompras de contratos, utilizando Microsoft Dynamics AX;
+- Organização do backlog técnico e apoio na definição de métricas de produtividade (como TMA);
+- Atuação como interlocutor nas comunicações com stakeholders, garantindo alinhamento entre áreas técnicas e de negócio.
 
 ### **Estagiário de Dados/BI | Set 2024 - Fev 2025**  
 **Petlove Tecnologia LTDA**  
