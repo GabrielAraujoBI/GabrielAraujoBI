@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel Pereira!
 
-🎓 Bacharel em **Ciência de Dados (FIAP)** e **Sistemas de Informação (UNISAL)** | 🧠 Entusiasta de BI, ETL e Visualização de Dados  
+🧠 Entusiasta de BI, ETL e Visualização de Dados  
 🔍 Em busca de oportunidades para crescer como Analista de Dados ou Engenheiro de Dados
 
 ---
@@ -10,6 +10,20 @@
 Analista de Dados Jr no Agibank, com expertise em operações financeiras e cessão de crédito. Possuo sólida experiência na construção de queries complexas em SQL, desenvolvimento de pipelines de dados com PySpark e criação de dashboards estratégicos em Power BI e Excel, garantindo eficiência operacional e conformidade com as regras de negócio.
 
 Bacharel em **Ciência de Dados (FIAP)** e **Sistemas de Informação (UNISAL)**. Sou motivado por desafios que envolvem dados, automação e melhoria de processos, e valorizo ambientes colaborativos que promovam inovação e impacto real.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens**: Python, Pyspark e SQL  
+- **Ferramentas de Visualização**: Power BI e Excel
+- **Cloud**: Google Cloud Platform e AWS
+- **Orquestração**: Airflow
+- **Conteinerização**: Docker
+- **Webscrapping**: Scrapy
+- **Versionamento**: Git
+- **Documentação**: Confluence
+- **Outros**: Jira e Figma
 
 ---
 
@@ -39,6 +53,13 @@ Bacharel em **Ciência de Dados (FIAP)** e **Sistemas de Informação (UNISAL)**
 
 ---
 
+## 📚 Formação Acadêmica
+
+**Tecnólogo em Ciência de Dados** – FIAP – *2024 - 2026 (Concluído)* 
+**Bacharel em Sistemas de Informação** – UNISAL – *2015 - 2018 (Concluído)*
+
+---
+
 ## 🧪 Projetos Acadêmicos
 
 ### **MarketPulse – ETL com Airflow + Scrapy + BigQuery**  
@@ -47,27 +68,6 @@ Bacharel em **Ciência de Dados (FIAP)** e **Sistemas de Informação (UNISAL)**
 - Extração de dados do **Mercado Livre** com **Python e Scrapy**  
 - Armazenamento dos dados tratados no **BigQuery (Google Cloud Platform)**
 - Consumo e visualização dos dados no **Power BI**
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Linguagens**: Python, Pyspark e SQL  
-- **Ferramentas de Visualização**: Power BI e Excel
-- **Cloud**: Google Cloud Platform e AWS
-- **Orquestração**: Airflow
-- **Conteinerização**: Docker
-- **Webscrapping**: Scrapy
-- **Versionamento**: Git
-- **Documentação**: Confluence
-- **Outros**: Jira e Figma
-
----
-
-## 📚 Formação Acadêmica
-
-**Tecnólogo em Ciência de Dados** – FIAP – *2024 - 2026 (Concluído)* 
-**Bacharel em Sistemas de Informação** – UNISAL – *2015 - 2018 (Concluído)*
 
 ---
 
