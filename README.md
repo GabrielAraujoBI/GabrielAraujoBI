@@ -7,9 +7,9 @@
 
 ## 🚀 Sobre mim
 
-Analista de Dados Jr no Agibank, com expertise em operações financeiras e cessão de crédito. Possuo sólida experiência na construção de queries complexas em SQL, desenvolvimento de pipelines de dados com PySpark e criação de dashboards estratégicos em Power BI e Excel, garantindo eficiência operacional e conformidade com as regras de negócio.
+Atualmente, trabalho como Analista de Dados Jr no Agibank, onde contribuo para a otimização de processos e tomada de decisões estratégicas por meio de soluções analíticas e refatoração de scripts utilizando SparkSQL e PySpark. Minha atuação inclui o desenvolvimento de dashboards no Power BI, criação de tabelas analíticas e orquestração de fluxos de dados.
 
-Bacharel em **Ciência de Dados (FIAP)** e **Sistemas de Informação (UNISAL)**. Sou motivado por desafios que envolvem dados, automação e melhoria de processos, e valorizo ambientes colaborativos que promovam inovação e impacto real.
+Estou cursando Bacharelado em Data Science na FIAP, com conclusão prevista para julho de 2026, e sou formado em Sistemas de Informação pelo Centro Universitário Salesiano de São Paulo. Tenho experiência consolidada em SQL, Power BI e PySpark, áreas nas quais busco combinar automação e eficiência operacional. Sou motivado por desafios que promovam a inovação e melhorias efetivas nos processos organizacionais.
 
 ---
 
@@ -55,7 +55,7 @@ Bacharel em **Ciência de Dados (FIAP)** e **Sistemas de Informação (UNISAL)**
 
 ## 📚 Formação Acadêmica
 
-**Tecnólogo em Ciência de Dados** – FIAP – *2024 - 2026 (Concluído)* 
+**Tecnólogo em Ciência de Dados** – FIAP – *2024 - 2026 (Em andamento)* 
 **Bacharel em Sistemas de Informação** – UNISAL – *2015 - 2018 (Concluído)*
 
 ---
